@@ -1,0 +1,219 @@
+{
+    "menuItemsLinks": [
+        {
+            "Inspiration": [
+                "Explore Design Work",
+                "New & Noteworthy",
+                "Playoffs",
+                "Blog",
+                "Weakly Warmup"
+            ]
+        },
+        {
+            "FindWork": [
+                "Job Board",
+                "Freelance Projects",
+                "Want freelance design projects?",
+                "Personlize your profile with video"
+            ]
+        },
+        {
+            "LearnDesign": [
+                "Certified Product Design Course",
+                "Introduction to UI Design",
+                "Browse our courses & workshops"
+            ]
+        },
+        {
+            "GoPro": [
+                "For Designers",
+                "For Freelancers",
+                "For Teams"
+            ]
+        },
+        {
+            "DesignFIles": [
+                "Discover",
+                "Graphics",
+                "Fonts",
+                "3D",
+                "Templates",
+                "Add-Ons",
+                "Web Themes",
+                "Open a Shop"
+            ]
+        },
+        {
+            "HireDesigners": [
+                "About Dribbble Hiring",
+                "Designer Search",
+                "List my Job Opening",
+                "Post a Freelance Project"
+            ]
+        }
+    ],
+    "profileCard": [
+        [
+            "Onboarding: Get Started #Exploration",
+            "https://cdn.dribbble.com/users/5536359/screenshots/15647939/media/c85f959aae0f2a34e87b5ead55462626.png?compress=1&resize=450x338&vertical=top"
+        ],
+        [
+            "Onboarding: Sign In #Exploration",
+            "https://cdn.dribbble.com/users/5536359/screenshots/15634117/media/3e9de4ded3d785b76394d5d99db7964d.png?compress=1&resize=450x338&vertical=top"
+        ],
+        [
+            "Stellar: Onboarding | Login & Signup",
+            "https://cdn.dribbble.com/users/5536359/screenshots/18186519/media/7c29cc4d7812c0ad0fd453280ea9ffd9.png?compress=1&resize=450x338&vertical=top"
+        ],
+        [
+            "Nuntium: Sign In & Sign Up Screens",
+            "https://cdn.dribbble.com/users/5536359/screenshots/14568997/media/c7dad89901827d60a79f8189cfc81f65.jpg?compress=1&resize=450x338&vertical=top"
+        ]
+    ],
+    "otherProfileCard": [
+        [
+            "Justuno - Onboarding",
+            "https://cdn.dribbble.com/users/676452/screenshots/16677305/media/4bd12ffeed49c40b0b13a10680f28679.png?compress=1&resize=450x338&vertical=top",
+            "https://cdn.dribbble.com/users/207046/avatars/mini/e49cce2e36bd80b176d6e412c12ebcb2.png?1535963078",
+            "Balkan Brothers",
+            "TEAM",
+            "",
+            "Croatia"
+        ],
+        [
+            "Sign up page — Untitled UI",
+            "https://cdn.dribbble.com/userupload/2960996/file/original-dd4aab2e0d858dfb795a2822d410d8c9.jpg?compress=1&resize=450x338&vertical=top",
+            "https://cdn.dribbble.com/users/2173663/avatars/mini/c4c633361e233ae7e0b9882264c95b1a.jpg?1579775888",
+            "Jordan Hughes®",
+            "PRO",
+            "",
+            "Melbourne, Australia"
+        ],
+        [
+            "Use ProtoPie for free & make high-fidelity prototypes for any digital product",
+            "https://cdn.pixabay.com/photo/2016/12/05/14/55/multicolor-1884024_1280.jpg",
+            "https://cdn.dribbble.com/users/851633/avatars/mini/5c10d7fa4616ed744f3d6df2b38ff88c.png?1433990149",
+            "Fikri Studio",
+            "TEAM",
+            "BOOSTED",
+            "New York City"
+        ],
+        [
+            "Planz. Onboarding screens in the dating app.",
+            "https://cdn.dribbble.com/users/2907342/screenshots/17029168/media/5f82e6ec42ff2841aa4b412d9e60f85e.png?compress=1&resize=450x338&vertical=top",
+            "https://cdn.dribbble.com/users/4515860/avatars/mini/b06c5e482b4ae70551263a64c4624694.png?1575464420",
+            "TheRoom",
+            "TEAM",
+            "",
+            "Earth"
+        ],
+        [
+            "Ocula — UI/UX Login Screen Interaction 3",
+            "https://cdn.dribbble.com/users/1814344/screenshots/15432259/4.png?compress=1&resize=450x338&vertical=top",
+            "https://cdn.dribbble.com/users/1814344/avatars/mini/48c82aba9dbad333a19d037e369d2211.png?1586759139",
+            "Samuel Oktavianus",
+            "PRO",
+            "",
+            "Remote"
+        ],
+        [
+            "Account Creation",
+            "https://cdn.dribbble.com/users/1544818/screenshots/17411928/media/540b91c30eef03eef9260ea84834958c.png?compress=1&resize=450x338&vertical=top",
+            "https://cdn.dribbble.com/users/878428/avatars/mini/2d70f62e2a2da30d2227f68498e5e897.png?1652082459",
+            "Fintory",
+            "TEAM",
+            "",
+            "Germany"
+        ]
+    ],
+    "marketGoods": [
+        [
+            "Regular business issues app screen",
+            "https://cdn.dribbble.com/userupload/2979146/file/original-4e62d2827b6e46fccd091531872edc4b.jpg?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/9745026/avatars/mini/be3f109b83a0ff4266cedb125f6a1125.jpg?1637147599",
+            "$18.00",
+            "bsd studio"
+        ],
+        [
+            "App UI Mockup / Phone Screen Mockup",
+            "https://cdn.dribbble.com/userupload/899062/file/original-888ce94ff829226955ef496720bd1db9.jpg?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/2906263/avatars/mini/4b1b836da674e5cb13ba031a475eb74c.png?1637885675",
+            "$15.00",
+            "Eka Restu D. Putra"
+        ],
+        [
+            "Boxboard Dashboard Ui Kit",
+            "https://cdn.dribbble.com/userupload/1865035/file/original-7798a9b0172596665998a1ca700fa498.png?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/1839804/avatars/mini/5fd0dce1a4e6bd30bf2c13f1c437c014.png?1655213227",
+            "$68.00",
+            "Uiscore"
+        ],
+        [
+            "50 Development UI illustrations",
+            "https://cdn.dribbble.com/userupload/1788013/file/original-c5326bcf1aaea52aff91ab74565ab4f1.jpg?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/3765/avatars/mini/ca524832c28237563e7ca3a90a6d3180.jpg?1478636829",
+            "$50.00",
+            "Greg Shuster"
+        ],
+        [
+            "Neumorphic PowePoint Presentation",
+            "https://cdn.dribbble.com/userupload/837395/file/original-4b84b1316820a7aa9aa7284c9566939d.jpg?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/2278077/avatars/mini/1d8bafdc3a54b5cc10f4d7340c63d7c3.jpg?1555274156",
+            "$39.00",
+            "Visual Generation"
+        ],
+        [
+            "Neumorphic Soft UI Kit - NEU",
+            "https://cdn.dribbble.com/userupload/679730/file/original-7700b22f196f5b797c9b22f0003ed2d9.png?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/2918596/avatars/mini/a29cc7345996fceecefb1a86471d9c6e.jpg?1544539269",
+            "$23.00",
+            "Oleksii Kolosov"
+        ],
+        [
+            "IODash Multipurpose Dashboard UI Kit",
+            "https://cdn.dribbble.com/userupload/2764186/file/original-63006c055cb654042c38b5726a9f0986.png?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/230268/avatars/mini/c77cdfa8e647e752a4d5f24d2f177220.png?1617003525",
+            "$39.00",
+            "Samson Vowles🕺"
+        ],
+        [
+            "Sark - Landing Page UI Kit",
+            "https://cdn.dribbble.com/userupload/2817485/file/original-0673487a631a8bff76b7b7ecdb13e852.png?compress=1&resize=320x240&vertical=top",
+            "https://cdn.dribbble.com/users/949297/avatars/mini/7e9b03f69472ef369cbb2ad5b516e04d.png?1655750560",
+            "$49.00",
+            "WhiteUI.Store"
+        ]
+    ],
+    "otherProfileCardPopoverPhotos": [
+        [
+            "https://cdn.dribbble.com/userupload/3176918/file/original-c2dea2c779a8f3fac25693b2616a8537.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3176896/file/original-ffe203d419dd183ac075ca4ef0051168.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3172916/file/original-e957634de05a9e7c6f112ba272b3c914.png?compress=1&resize=280x210"
+        ],
+        [
+            "https://cdn.dribbble.com/userupload/3271203/file/original-f4d4b387add1236cec4c667b82a7bc04.jpg?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3271186/file/original-86b8c3b4f9e2771f63fd53df10e30cca.jpg?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3178914/file/original-2f1ba919e5d32ce61cd0af3f5678ce32.jpg?compress=1&crop=0x0-1920x1440&resize=280x210"
+        ],
+        [
+            "https://cdn.dribbble.com/userupload/3250423/file/still-3af16008e639b8b040d60a559a72490f.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3250423/file/still-3af16008e639b8b040d60a559a72490f.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3109859/file/still-8b7b68cb11e052469f91e4d3435d48fe.png?compress=1&resize=280x210"
+        ],
+        [
+            "https://cdn.dribbble.com/users/6005741/screenshots/18672205/readyhubb_website_4_alina.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/users/6005741/screenshots/18672083/readyhubb_website_3_alina.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3001037/file/original-222deb7ad5dd63479f4b11777073cb34.png?compress=1&resize=280x210"
+        ],
+        [
+            "https://cdn.dribbble.com/userupload/3344939/file/still-29277bf1e37f37231f7f19e0631b5581.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3254238/file/still-aa8ff9422557c5755cef7d0794226549.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3247390/file/still-b248ca0ffbba18a538fc28a8666a77b0.png?compress=1&resize=280x210"
+        ],
+        [
+            "https://cdn.dribbble.com/userupload/3272860/file/original-69e4a9d50d9b6e2792c018c30f4be3b3.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3268112/file/original-285772752b7984d08b74e0e18de6d757.png?compress=1&resize=280x210",
+            "https://cdn.dribbble.com/userupload/3259489/file/still-c6c5eb8aa6934baad98baf91e4d4884d.png?compress=1&resize=280x210"
+        ]
+    ]
+}
