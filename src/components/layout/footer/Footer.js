@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div className='container'>
             <div className='row'>
-                <div className='col-2'>
+                <div className='col-sm-2'>
                     <Link className="navbar-brand" style={{ color: "#ea4c89" }} to="/">dribble</Link>
                     <p>Dribbble is the world’s leading<br />
                         community for creatives to share, grow,<br />
@@ -32,7 +32,7 @@ const Footer = () => {
                 </div>
 
 
-                <div className='col-2'>
+                <div className='col-sm-2'>
                     <ul className="list-group">
                         <li className="list-group-item border-0"><h6>For designers</h6></li>
                         <li className="list-group-item border-0">Go Pro!</li>
@@ -44,7 +44,7 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                <div className='col-2'>
+                <div className='col-sm-2'>
                     <ul className="list-group">
                         <li className="list-group-item border-0"><h6>Hire designers</h6></li>
                         <li className="list-group-item border-0">Post a job opening</li>
@@ -55,7 +55,7 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                <div className='col-2'>
+                <div className='col-sm-2'>
                     <ul className="list-group">
                         <li className="list-group-item border-0"><h6>Company</h6></li>
                         <li className="list-group-item border-0">About</li>
@@ -71,7 +71,7 @@ const Footer = () => {
                 </div>
 
 
-                <div className='col-2'>
+                <div className='col-sm-2'>
                     <ul className="list-group">
                         <li className="list-group-item border-0"><h6>Directories</h6></li>
                         <li className="list-group-item border-0">Design jobs</li>
@@ -87,7 +87,7 @@ const Footer = () => {
                 </div>
 
 
-                <div className='col-2'>
+                <div className='col-sm-2'>
                     <ul className="list-group">
                         <li className="list-group-item border-0"><h6>Design Resources</h6></li>
                         <li className="list-group-item border-0">Freelancing</li>

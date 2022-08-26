@@ -35,7 +35,7 @@ const OtherProfileCard = (props) => {
   );
   return (
 
-    <div className='col-4 my-2'>
+    <div className='col-sm-4 my-2'>
       <div className="card m-2 border-0" style={{ width: "25rem" }}>
         <div className="position-absolute top-25 end-0" style={{ width: "4rem", height: "4rem" }}><i className="fa fa-copy"></i></div>
         <img src={props.image} className="card-img-top p-0" alt="..." />
