@@ -11,7 +11,7 @@ import { useNavigate } from 'react-router-dom'
 import Register from './Register'
 
 const Login = () => {
-    
+
     const [cred, setCred] = useState({
         email: '',
         password: ''

@@ -2,21 +2,23 @@
   text-align: center;
 }
 
-.dropdown:hover .dropdown-menu{
+.dropdown:hover .dropdown-menu {
   display: block;
 }
 
-.shareMyWorkBtn{
+.shareMyWorkBtn {
   background-color: #ea4c89;
 }
 
-span a{
+span a {
   color: #ea4c89;
 }
-.card-content{
-  background-image: linear-gradient(rgba(100,100,100, 0), rgba(0, 0, 0, 0.6) 50%);
+
+.card-content {
+  background-image: linear-gradient(rgba(100, 100, 100, 0), rgba(0, 0, 0, 0.6) 50%);
 }
-.marketGood{
+
+.marketGood {
   width: 400px;
   display: flex;
   overflow-x: auto;

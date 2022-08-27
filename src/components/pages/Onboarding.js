@@ -39,46 +39,46 @@ const Onboarding = () => {
         <div className="container w-75">
           <div className="align-items-center justify-content-between">
 
-          {/* <!-- Carousel --> */}
-          <div id="demo" className="carousel slide align-self-center" data-bs-ride="carousel">
+            {/* <!-- Carousel --> */}
+            <div id="demo" className="carousel slide align-self-center" data-bs-ride="carousel">
 
-            {/* <!-- The slideshow/carousel --> */}
-            <div className="carousel-inner">
-              <div className="carousel-item active">
-                <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/67e48efc54b41af96fdceb1eb2f1e8fa.png?compress=1&resize=1000x750&vertical=top" alt="Los Angeles" className="d-block img-fluid" style={{ width: "100%" }} />
+              {/* <!-- The slideshow/carousel --> */}
+              <div className="carousel-inner">
+                <div className="carousel-item active">
+                  <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/67e48efc54b41af96fdceb1eb2f1e8fa.png?compress=1&resize=1000x750&vertical=top" alt="Los Angeles" className="d-block img-fluid" style={{ width: "100%" }} />
+                </div>
+                <div className="carousel-item">
+                  <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/9ded35f5d4db48b0a38d70128775e8c4.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} />
+                </div>
+                <div className="carousel-item">
+                  <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/06bc6339376b3706107a2417504fb7bc.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} />
+                </div>
+                <div className="carousel-item">
+                  <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/4196572828305b986d6757de36bc973b.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} />
+                </div>
+                <div className="carousel-item">
+                  <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/caaa58fdb069912de2b13f0a049959ea.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} />
+                </div>
               </div>
-              <div className="carousel-item">
-                <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/9ded35f5d4db48b0a38d70128775e8c4.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} />
-              </div>
-              <div className="carousel-item">
-                <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/06bc6339376b3706107a2417504fb7bc.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} />
-              </div>
-              <div className="carousel-item">
-                <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/4196572828305b986d6757de36bc973b.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} />
-              </div>
-              <div className="carousel-item">
-                <img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/caaa58fdb069912de2b13f0a049959ea.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} />
-              </div>
+
+              {/* <!-- Left and right controls/icons --> */}
+              <button className="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+                <span className="carousel-control-prev-icon"></span>
+              </button>
+              <button className="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+                <span className="carousel-control-next-icon"></span>
+              </button>
+            </div>
+            {/* <!-- Indicators/dots --> */}
+            <div className="carousel-indicators position-relative bottom-0 start-0">
+              <button type="button" data-bs-target="#demo" data-bs-slide-to="0" className="active" style={{ width: "5rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/67e48efc54b41af96fdceb1eb2f1e8fa.png?compress=1&resize=1000x750&vertical=top" alt="Los Angeles" className="d-block" style={{ width: "100%" }} /></button>
+              <button type="button" data-bs-target="#demo" data-bs-slide-to="1" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/9ded35f5d4db48b0a38d70128775e8c4.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} /></button>
+              <button type="button" data-bs-target="#demo" data-bs-slide-to="2" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/06bc6339376b3706107a2417504fb7bc.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} /></button>
+              <button type="button" data-bs-target="#demo" data-bs-slide-to="1" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/4196572828305b986d6757de36bc973b.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} /></button>
+              <button type="button" data-bs-target="#demo" data-bs-slide-to="2" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/caaa58fdb069912de2b13f0a049959ea.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} /></button>
             </div>
 
-            {/* <!-- Left and right controls/icons --> */}
-            <button className="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
-              <span className="carousel-control-prev-icon"></span>
-            </button>
-            <button className="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
-              <span className="carousel-control-next-icon"></span>
-            </button>
-          </div>
-          {/* <!-- Indicators/dots --> */}
-          <div className="carousel-indicators position-relative bottom-0 start-0">
-            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" className="active" style={{ width: "5rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/67e48efc54b41af96fdceb1eb2f1e8fa.png?compress=1&resize=1000x750&vertical=top" alt="Los Angeles" className="d-block" style={{ width: "100%" }} /></button>
-            <button type="button" data-bs-target="#demo" data-bs-slide-to="1" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/9ded35f5d4db48b0a38d70128775e8c4.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} /></button>
-            <button type="button" data-bs-target="#demo" data-bs-slide-to="2" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/06bc6339376b3706107a2417504fb7bc.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} /></button>
-            <button type="button" data-bs-target="#demo" data-bs-slide-to="1" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/4196572828305b986d6757de36bc973b.png?compress=1&resize=1000x750&vertical=top" alt="Chicago" className="d-block" style={{ width: "100%" }} /></button>
-            <button type="button" data-bs-target="#demo" data-bs-slide-to="2" style={{ width: "8rem", height: "5rem" }}><img src="https://cdn.dribbble.com/users/5536359/screenshots/15669113/media/caaa58fdb069912de2b13f0a049959ea.png?compress=1&resize=1000x750&vertical=top" alt="New York" className="d-block" style={{ width: "100%" }} /></button>
-          </div>
 
-            
           </div>
         </div>
       </section>
