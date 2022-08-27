@@ -1,0 +1,16 @@
+{
+  "user":[
+    {
+      "name": "Lakshit Singh",
+      "email": "singhlakshit01@gmail.com",
+      "phone": "8553096657",
+      "password": "123456"
+      },
+      {
+      "name": "shiv Singh",
+      "email": "shiv0@gmail.com",
+      "phone": "8553096607",
+      "password": "0123456"
+      }
+  ]
+}
