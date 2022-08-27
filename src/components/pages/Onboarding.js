@@ -12,7 +12,7 @@ const Onboarding = () => {
   return (
     <>
       <section
-        className=" p-5 p-lg-0 pt-lg-5 text-center text-sm-start"
+        className="bg-dark p-5 p-lg-0 pt-lg-5 text-center text-sm-start"
       >
         <div className="container-fluid w-75">
           <div className="d-sm-flex align-items-center justify-content-between">
